@@ -1,2 +1,2 @@
 # ML-case-studies
-My cases &amp; projects for ML studies
+My cases &amp; projects for ML studies.
